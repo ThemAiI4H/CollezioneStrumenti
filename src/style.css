@@ -142,7 +142,7 @@ body {
 }
 
 .element-item .logo {
-  align: center;
+  text-align: center;
   text-align: center;
   font-size: 1.6em;
   letter-spacing: 1px;
